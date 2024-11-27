@@ -1,5 +1,5 @@
 **Install Vue.js
-
+ 
 1. Install Node.js and npm
 - Download from nodejs.org
 - Verify installation by running `node -v` and `npm -v` in terminal
