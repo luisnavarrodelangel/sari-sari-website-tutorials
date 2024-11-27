@@ -26,4 +26,3 @@ vue create my-first-project
 npm run serve
 ```
 
-Would you like me to elaborate on any of these steps?
